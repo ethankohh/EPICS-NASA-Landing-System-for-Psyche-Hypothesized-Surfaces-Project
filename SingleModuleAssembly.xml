@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Created by="Ethan Koh" from="Onshape" on="08/13/26||11:27:11" using="Simscape Multibody Exporter"/>
+  <ModelUnits length="centimeter" mass="pound"/>
+  <DataUnits length="meter" mass="kilogram"/>
+  <RootAssembly name="Single Module Assembly" uid="bef8bcb5e04f9e52be7a1fcd" version="w-bf7cd3e9bc3eb7efbc3981f9">
+    <InstanceTree>
+      <Instance entityUid="09eab74402a195ccbd5bce25" name="Spine &amp; Rigid Body Assembly &lt;3>" uid="MHoauVbi+FZ9CEls8">
+        <Transform>
+          <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.007856881 -0.027145261 0.025663304 </Translation>
+        </Transform>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;2>" uid="MELe/9wStk/UKQ96D">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.007973987 0.032508764 -0.008307719 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;3>" uid="MXRGpumcc8fYDMuWm">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>0.004026013 0.032508764 -0.008307719 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*9dffa5eae9f4dda332c1514f" name="Microspine Rigid Body &lt;1>" uid="Mb9Xe7z1bZVrsPsjc">
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+            <Translation>-0.018897850 0.035008764 -0.001521948 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;1>" uid="MqpGmpLIJdwgYtbxi">
+          <Transform>
+            <Rotation>0.939692621 -0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.016973987 0.032508764 -0.008307719 </Translation>
+          </Transform>
+        </Instance>
+      </Instance>
+      <Instance entityUid="JHD*:*bbb57c5203bfad39ab804528" name="Rigid Body Frame &lt;1>" uid="McQGWYyFOPK/RFDd3">
+        <Transform>
+          <Rotation>0.000000000 1.000000000 0.000000000 -1.000000000 0.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.012209030 0.017848153 0.037391356 </Translation>
+        </Transform>
+      </Instance>
+      <Instance entityUid="09eab74402a195ccbd5bce25" name="Spine &amp; Rigid Body Assembly &lt;2>" uid="MdbLFADi1oKweU5U1">
+        <Transform>
+          <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.008802721 -0.016326516 0.023930001 </Translation>
+        </Transform>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;2>" uid="MELe/9wStk/UKQ96D">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.008919827 0.026690019 -0.006574416 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;3>" uid="MXRGpumcc8fYDMuWm">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>0.003080173 0.026690019 -0.006574416 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*9dffa5eae9f4dda332c1514f" name="Microspine Rigid Body &lt;1>" uid="Mb9Xe7z1bZVrsPsjc">
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+            <Translation>-0.019843690 0.029190019 0.000211355 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;1>" uid="MqpGmpLIJdwgYtbxi">
+          <Transform>
+            <Rotation>0.939692621 -0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.017919827 0.026690019 -0.006574416 </Translation>
+          </Transform>
+        </Instance>
+      </Instance>
+      <Instance entityUid="09eab74402a195ccbd5bce25" name="Spine &amp; Rigid Body Assembly &lt;4>" uid="MdoH85neqbja/ygCR">
+        <Transform>
+          <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.005140146 -0.038241341 0.022284786 </Translation>
+        </Transform>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;2>" uid="MELe/9wStk/UKQ96D">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.005257252 0.038604845 -0.004929201 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;3>" uid="MXRGpumcc8fYDMuWm">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>0.006742748 0.038604845 -0.004929201 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*9dffa5eae9f4dda332c1514f" name="Microspine Rigid Body &lt;1>" uid="Mb9Xe7z1bZVrsPsjc">
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+            <Translation>-0.016181115 0.041104845 0.001856570 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;1>" uid="MqpGmpLIJdwgYtbxi">
+          <Transform>
+            <Rotation>0.939692621 -0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.014257252 0.038604845 -0.004929201 </Translation>
+          </Transform>
+        </Instance>
+      </Instance>
+      <Instance entityUid="JLD*:*ecd6dd72a5c1d5b21ac514b4" name="Compression Spring &lt;1>" uid="MgmuEyJ6IozKrBkP1">
+        <Transform>
+          <Rotation>0.000000000 -0.000000000 -1.000000000 0.000000000 -1.000000000 -0.000000000 -1.000000000 0.000000000 0.000000000 </Rotation>
+          <Translation>0.046559030 0.005363504 0.041141356 </Translation>
+        </Transform>
+      </Instance>
+      <Instance entityUid="09eab74402a195ccbd5bce25" name="Spine &amp; Rigid Body Assembly &lt;1>" uid="MsMR+MPU1a2SFBPtg">
+        <Transform>
+          <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.009649442 -0.005797352 0.022025224 </Translation>
+        </Transform>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;2>" uid="MELe/9wStk/UKQ96D">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.009766548 0.021160856 -0.004669640 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;3>" uid="MXRGpumcc8fYDMuWm">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>0.002233452 0.021160856 -0.004669640 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*9dffa5eae9f4dda332c1514f" name="Microspine Rigid Body &lt;1>" uid="Mb9Xe7z1bZVrsPsjc">
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+            <Translation>-0.020690412 0.023660856 0.002116131 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;1>" uid="MqpGmpLIJdwgYtbxi">
+          <Transform>
+            <Rotation>0.939692621 -0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.018766548 0.021160856 -0.004669640 </Translation>
+          </Transform>
+        </Instance>
+      </Instance>
+      <Instance entityUid="09eab74402a195ccbd5bce25" name="Spine &amp; Rigid Body Assembly &lt;5>" uid="Mu5ZUdWo8BlQB+um+">
+        <Transform>
+          <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.003087400 -0.047792416 0.020220141 </Translation>
+        </Transform>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;2>" uid="MELe/9wStk/UKQ96D">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.003204506 0.043155919 -0.002864556 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;3>" uid="MXRGpumcc8fYDMuWm">
+          <Transform>
+            <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>0.008795494 0.043155919 -0.002864556 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*9dffa5eae9f4dda332c1514f" name="Microspine Rigid Body &lt;1>" uid="Mb9Xe7z1bZVrsPsjc">
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+            <Translation>-0.014128370 0.045655919 0.003921215 </Translation>
+          </Transform>
+        </Instance>
+        <Instance entityUid="JHD*:*2de2d0a806864b3ef6110eff" name="Steel Spine &lt;1>" uid="MqpGmpLIJdwgYtbxi">
+          <Transform>
+            <Rotation>0.939692621 -0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+            <Translation>-0.012204506 0.043155919 -0.002864556 </Translation>
+          </Transform>
+        </Instance>
+      </Instance>
+      <Instance entityUid="JHD*:*02f7001107e383296d185cc3" name="Slider Pin &lt;1>" uid="Mz43QI3SeyHosJexQ">
+        <Transform>
+          <Rotation>0.000000000 1.000000000 0.000000000 -1.000000000 0.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.015959030 0.022848153 0.041141356 </Translation>
+        </Transform>
+      </Instance>
+      <Instance entityUid="JHD*:*2b039f5083f382bde77bc8ac" name="Restraint Casing &lt;2>" uid="MzMhN6n+182PwTWTL">
+        <Transform>
+          <Rotation>0.000000000 1.000000000 0.000000000 -1.000000000 0.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+          <Translation>0.016959030 0.005363504 0.046141356 </Translation>
+        </Transform>
+      </Instance>
+    </InstanceTree>
+    <Constraints/>
+    <Joints>
+      <Cylindrical name="Cylindrical1">
+        <BaseFrame>
+          <InstancePath>
+            <Uid>MsMR+MPU1a2SFBPtg</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 -0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+            <Translation>0.027000000 -0.005000000 0.017000000 </Translation>
+          </Transform>
+        </BaseFrame>
+        <FollowerFrame>
+          <InstancePath>
+            <Uid>MdbLFADi1oKweU5U1</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+            <Translation>0.027000000 0.000000000 0.017000000 </Translation>
+          </Transform>
+        </FollowerFrame>
+      </Cylindrical>
+      <Cylindrical name="Cylindrical2">
+        <BaseFrame>
+          <InstancePath>
+            <Uid>MdbLFADi1oKweU5U1</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 -0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+            <Translation>0.027000000 -0.005000000 0.017000000 </Translation>
+          </Transform>
+        </BaseFrame>
+        <FollowerFrame>
+          <InstancePath>
+            <Uid>MHoauVbi+FZ9CEls8</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+            <Translation>0.027000000 0.000000000 0.017000000 </Translation>
+          </Transform>
+        </FollowerFrame>
+      </Cylindrical>
+      <Cylindrical name="Cylindrical3">
+        <BaseFrame>
+          <InstancePath>
+            <Uid>MHoauVbi+FZ9CEls8</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 -0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+            <Translation>0.027000000 -0.005000000 0.017000000 </Translation>
+          </Transform>
+        </BaseFrame>
+        <FollowerFrame>
+          <InstancePath>
+            <Uid>MdoH85neqbja/ygCR</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+            <Translation>0.027000000 0.000000000 0.017000000 </Translation>
+          </Transform>
+        </FollowerFrame>
+      </Cylindrical>
+      <Cylindrical name="Cylindrical4">
+        <BaseFrame>
+          <InstancePath>
+            <Uid>MdoH85neqbja/ygCR</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 -0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+            <Translation>0.027000000 -0.005000000 0.017000000 </Translation>
+          </Transform>
+        </BaseFrame>
+        <FollowerFrame>
+          <InstancePath>
+            <Uid>Mu5ZUdWo8BlQB+um+</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+            <Translation>0.027000000 0.000000000 0.017000000 </Translation>
+          </Transform>
+        </FollowerFrame>
+      </Cylindrical>
+      <Cylindrical name="Cylindrical5">
+        <BaseFrame>
+          <InstancePath>
+            <Uid>MsMR+MPU1a2SFBPtg</Uid>
+            <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 -0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
+            <Translation>0.027000000 0.000000000 0.017000000 </Translation>
+          </Transform>
+        </BaseFrame>
+        <FollowerFrame>
+          <InstancePath>
+            <Uid>McQGWYyFOPK/RFDd3</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
+            <Translation>0.000000000 0.003750000 0.003750000 </Translation>
+          </Transform>
+        </FollowerFrame>
+      </Cylindrical>
+      <Cylindrical name="Cylindrical6">
+        <BaseFrame>
+          <InstancePath>
+            <Uid>McQGWYyFOPK/RFDd3</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+            <Translation>-0.002000000 0.003750000 0.003750000 </Translation>
+          </Transform>
+        </BaseFrame>
+        <FollowerFrame>
+          <InstancePath>
+            <Uid>Mz43QI3SeyHosJexQ</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+            <Translation>0.035000000 0.000000000 0.000000000 </Translation>
+          </Transform>
+        </FollowerFrame>
+      </Cylindrical>
+      <Weld name="Fastened1">
+        <BaseFrame>
+          <InstancePath>
+            <Uid>MzMhN6n+182PwTWTL</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>-0.000000000 -1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -1.000000000 0.000000000 -0.000000000 </Rotation>
+            <Translation>0.000000000 0.030000000 -0.005000000 </Translation>
+          </Transform>
+        </BaseFrame>
+        <FollowerFrame>
+          <InstancePath>
+            <Uid>MgmuEyJ6IozKrBkP1</Uid>
+          </InstancePath>
+          <Transform>
+            <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 </Rotation>
+            <Translation>0.000000000 0.000000000 -0.000400000 </Translation>
+          </Transform>
+        </FollowerFrame>
+      </Weld>
+    </Joints>
+  </RootAssembly>
+  <Assemblies>
+    <Assembly name="Spine &amp; Rigid Body Assembly" uid="09eab74402a195ccbd5bce25">
+      <ModelUnits length="centimeter" mass="pound"/>
+      <Constraints/>
+      <Joints>
+        <Weld name="Fastened1">
+          <BaseFrame>
+            <InstancePath>
+              <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+            </InstancePath>
+            <Transform>
+              <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+              <Translation>0.000000000 -0.002500000 -0.001500000 </Translation>
+            </Transform>
+          </BaseFrame>
+          <FollowerFrame>
+            <InstancePath>
+              <Uid>MqpGmpLIJdwgYtbxi</Uid>
+            </InstancePath>
+            <Transform>
+              <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+              <Translation>0.000000000 0.000000000 0.005625000 </Translation>
+            </Transform>
+          </FollowerFrame>
+        </Weld>
+        <Weld name="Fastened2">
+          <BaseFrame>
+            <InstancePath>
+              <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+            </InstancePath>
+            <Transform>
+              <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+              <Translation>0.009000000 -0.002500000 -0.001500000 </Translation>
+            </Transform>
+          </BaseFrame>
+          <FollowerFrame>
+            <InstancePath>
+              <Uid>MELe/9wStk/UKQ96D</Uid>
+            </InstancePath>
+            <Transform>
+              <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+              <Translation>0.000000000 0.000000000 0.005625000 </Translation>
+            </Transform>
+          </FollowerFrame>
+        </Weld>
+        <Weld name="Fastened3">
+          <BaseFrame>
+            <InstancePath>
+              <Uid>Mb9Xe7z1bZVrsPsjc</Uid>
+            </InstancePath>
+            <Transform>
+              <Rotation>0.939692621 0.000000000 -0.342020143 0.000000000 1.000000000 0.000000000 0.342020143 0.000000000 0.939692621 </Rotation>
+              <Translation>0.021000000 -0.002500000 -0.001500000 </Translation>
+            </Transform>
+          </BaseFrame>
+          <FollowerFrame>
+            <InstancePath>
+              <Uid>MXRGpumcc8fYDMuWm</Uid>
+            </InstancePath>
+            <Transform>
+              <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+              <Translation>0.000000000 0.000000000 0.005625000 </Translation>
+            </Transform>
+          </FollowerFrame>
+        </Weld>
+      </Joints>
+    </Assembly>
+  </Assemblies>
+  <Parts>
+    <Part name="Slider Pin" uid="JHD*:*02f7001107e383296d185cc3">
+      <ModelUnits length="centimeter" mass="pound"/>
+      <MassProperties>
+        <Mass>0.000260265243</Mass>
+        <CenterOfMass>0.017500000 0.000000000 0.000000000 </CenterOfMass>
+        <Inertia>0.000000000 0.000000027 0.000000027 0.000000000 0.000000000 0.000000000 </Inertia>
+      </MassProperties>
+      <GeometryFile name="Slider Pin.step" type="STEP"/>
+      <VisualProperties>
+        <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Emissive a="1" b="0" g="0" r="0"/>
+        <Shininess>0.5</Shininess>
+      </VisualProperties>
+    </Part>
+    <Part name="Restraint Casing" uid="JHD*:*2b039f5083f382bde77bc8ac">
+      <ModelUnits length="centimeter" mass="pound"/>
+      <MassProperties>
+        <Mass>0.00849830211</Mass>
+        <CenterOfMass>-0.000000000 0.004615960 -0.003192273 </CenterOfMass>
+        <Inertia>0.000003310 0.000001487 0.000004324 0.000000166 0.000000000 0.000000000 </Inertia>
+      </MassProperties>
+      <GeometryFile name="Restraint Casing.step" type="STEP"/>
+      <VisualProperties>
+        <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Emissive a="1" b="0" g="0" r="0"/>
+        <Shininess>0.5</Shininess>
+      </VisualProperties>
+    </Part>
+    <Part name="Steel Spine" uid="JHD*:*2de2d0a806864b3ef6110eff">
+      <ModelUnits length="centimeter" mass="pound"/>
+      <MassProperties>
+        <Mass>8.82694009e-05</Mass>
+        <CenterOfMass>-0.000000000 -0.000000031 0.004280223 </CenterOfMass>
+        <Inertia>0.000000000 0.000000000 0.000000000 -0.000000000 0.000000000 0.000000000 </Inertia>
+      </MassProperties>
+      <GeometryFile name="Steel Spine.step" type="STEP"/>
+      <VisualProperties>
+        <Ambient a="1.000000000" b="0.529411765" g="0.580392157" r="0.600000000"/>
+        <Diffuse a="1.000000000" b="0.529411765" g="0.580392157" r="0.600000000"/>
+        <Specular a="1.000000000" b="0.529411765" g="0.580392157" r="0.600000000"/>
+        <Emissive a="1" b="0" g="0" r="0"/>
+        <Shininess>0.5</Shininess>
+      </VisualProperties>
+    </Part>
+    <Part name="Microspine Rigid Body" uid="JHD*:*9dffa5eae9f4dda332c1514f">
+      <ModelUnits length="centimeter" mass="pound"/>
+      <MassProperties>
+        <Mass>0.002486145</Mass>
+        <CenterOfMass>0.015000000 -0.002500000 0.010015622 </CenterOfMass>
+        <Inertia>0.000000113 0.000000367 0.000000264 0.000000000 0.000000000 0.000000000 </Inertia>
+      </MassProperties>
+      <GeometryFile name="Microspine Rigid Body.step" type="STEP"/>
+      <VisualProperties>
+        <Ambient a="0.886274510" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Diffuse a="0.886274510" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Specular a="0.886274510" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Emissive a="1" b="0" g="0" r="0"/>
+        <Shininess>0.5</Shininess>
+      </VisualProperties>
+    </Part>
+    <Part name="Rigid Body Frame" uid="JHD*:*bbb57c5203bfad39ab804528">
+      <ModelUnits length="centimeter" mass="pound"/>
+      <MassProperties>
+        <Mass>0.00115487038</Mass>
+        <CenterOfMass>0.012500000 0.015357044 0.003750000 </CenterOfMass>
+        <Inertia>0.000000104 0.000000101 0.000000196 0.000000000 0.000000000 0.000000000 </Inertia>
+      </MassProperties>
+      <GeometryFile name="Rigid Body Frame.step" type="STEP"/>
+      <VisualProperties>
+        <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+        <Emissive a="1" b="0" g="0" r="0"/>
+        <Shininess>0.5</Shininess>
+      </VisualProperties>
+    </Part>
+    <Part name="Compression Spring" uid="JLD*:*ecd6dd72a5c1d5b21ac514b4">
+      <ModelUnits length="centimeter" mass="pound"/>
+      <MassProperties>
+        <Mass>0.000440124415</Mass>
+        <CenterOfMass>0.000000107 -0.000000232 0.009000220 </CenterOfMass>
+        <Inertia>0.000000013 0.000000013 0.000000003 0.000000000 0.000000000 -0.000000000 </Inertia>
+      </MassProperties>
+      <GeometryFile name="Compression Spring.step" type="STEP"/>
+      <VisualProperties>
+        <Ambient a="1.000000000" b="0.529411765" g="0.580392157" r="0.600000000"/>
+        <Diffuse a="1.000000000" b="0.529411765" g="0.580392157" r="0.600000000"/>
+        <Specular a="1.000000000" b="0.529411765" g="0.580392157" r="0.600000000"/>
+        <Emissive a="1" b="0" g="0" r="0"/>
+        <Shininess>0.5</Shininess>
+      </VisualProperties>
+    </Part>
+  </Parts>
+</SimscapeMultibodyImportXML>
